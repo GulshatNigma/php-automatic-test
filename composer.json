@@ -1,0 +1,16 @@
+{
+    "name": "gulshat/hexlet-php-automatic-test",
+    "autoload": 
+    {
+        "files": [
+            "src/StringUtils.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Гульшат Нигматуллина",
+            "email": "nigma1918@mail.ru"
+        }
+    ],
+    "require": {}
+}
